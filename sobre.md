@@ -12,7 +12,7 @@ title: Sobre a CDPI
 	<ul>
 		<li>Tutoriais (em breve)</li>
   		<li><a href="https://drive.google.com/drive/folders/0BxryQ3cOy6LDQ0NqR0NZNVR5SUk?usp=sharing" target="_blank">Documentos importantes</a></li>
-  		<li><a href="https://soundcloud.com/conversas-com-quem-pesquisa" target+"_blank">Conversas com quem pesquisa (podcast)</a></li>
+  		<li><a href="https://soundcloud.com/conversas-com-quem-pesquisa" target="_blank">Conversas com quem pesquisa (podcast)</a></li>
   		<li>Lista com Grupos de Pesquisa do Campus Brasília (em breve)</li>
   		<li>Dúvidas? Entre em <a href="https://cdpibrasilia.github.io/contact" target="_blank">contato</a></li>
         </ul>
