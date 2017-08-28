@@ -16,6 +16,6 @@ A primeira forma de divulgação é um podcast chamado "Conversas com quem pesqu
 	<figcaption>Fig1. - Campus Brasília - IFB</figcaption>
 </figure>
 
-### Blog
+#### Blog
 
 Outra forma de divulgação que estamos propondo é um blog, que contará com publicações informativas da CDPI, bem como textos dos docentes, técnicos e discentes sobre suas atividades de pesquisa. Acesse o blog aqui.
