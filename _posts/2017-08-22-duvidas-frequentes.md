@@ -4,7 +4,7 @@ title:  "Dúvidas frequentes"
 date:   2017-08-22
 ---
 
-<p class="intro"><span class="dropcap">R</span>euni aqui um conjunto de dúvidas frequentes em relação às atividades de pesquisa no IFB. Este post está em aperfeiçoamento constante. Caso tenha dúvidas não respondidas aqui, por favor, encaminhe um email para <a href="mailto:marcos.ferreira@ifb.edu.br">marcos.ferreira@ifb.edu.br</a></p>
+<p class="intro"><span class="dropcap">A</span>qui você encontra um conjunto de dúvidas frequentes em relação às atividades de pesquisa no IFB. Este post está em aperfeiçoamento constante. Caso tenha dúvidas não respondidas aqui, por favor, encaminhe um email para <a href="mailto:marcos.ferreira@ifb.edu.br">marcos.ferreira@ifb.edu.br</a></p>
 
 ### Como solicitar 12 de pesquisa?
 
