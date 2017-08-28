@@ -6,14 +6,14 @@ date:   2017-08-22
 
 <p class="intro"><span class="dropcap">A</span>qui você encontra um conjunto de dúvidas frequentes em relação às atividades de pesquisa no IFB. Este post está em aperfeiçoamento constante. Caso tenha dúvidas não respondidas aqui, por favor, encaminhe um email para <a href="mailto:marcos.ferreira@ifb.edu.br">marcos.ferreira@ifb.edu.br</a></p>
 
-### Como solicitar 12 de pesquisa?
+#### Como solicitar 12 de pesquisa?
 
 A solicitação deve ocorrer por meio de manifestação de interesse do(a) docente, a partir de envio (via protocolo do Campus) para a CDPI com ata de colegiado aprovando a solicitação e formulário de pesquisa preenchido.
 
 * <a href="https://drive.google.com/file/d/0BxryQ3cOy6LDSmJlQU5pNTU5enc/view?usp=sharing" target="_blank">Infográfico com o fluxo de 12h de pesquisa</a>
 * <a href="https://drive.google.com/a/etfbsb.edu.br/file/d/0BxXjD-WQ-AqkeVdfV1oyR053UTg/view?usp=sharing" target="_blank">Formulário de projetos de pesquisa</a>
 
-### Como cadastrar grupo de pesquisa?
+#### Como cadastrar grupo de pesquisa?
 
 Quem registra o grupo no Diretório é o Líder. O formulário Grupo (existente atualmente apenas na versão on line) 
 está disponível no site de Líderes de grupo, em Atualizar/Inserir novo grupo, "Inserir novo grupo". Para ter acesso a 
