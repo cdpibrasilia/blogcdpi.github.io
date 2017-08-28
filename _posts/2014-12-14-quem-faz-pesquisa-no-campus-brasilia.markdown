@@ -13,7 +13,7 @@ published: true
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/3429141724396047" target="_blank">Coletivo Transcoreográfico - (ColeT-IFB) - IFB</a>
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/4347514313224986" target="_blank">Grupo Interdisciplinar de Pesquisa em Música do IFB</a>
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/0962464153639509" target="_blank">Grupo de Pesquisa em Dança Educação</a>
-* <a href="http://dgp.cnpq.br/dgp/espelhogrupo/6419069911099653" target="_blank">Interface - Grupo interdisciplinar em Filosofia e Cultura IFB/CNPq</a>* 
+* <a href="http://dgp.cnpq.br/dgp/espelhogrupo/6419069911099653" target="_blank">Interface - Grupo interdisciplinar em Filosofia e Cultura IFB/CNPq</a> 
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/3318535268236658" target="_blank">Observatório do Mundo do Trabalho</a>
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/4900898887130496" target="_blank">Pesquisa Terminológica no IFB </a>
 
