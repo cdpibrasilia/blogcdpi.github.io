@@ -8,7 +8,7 @@ date:   2017-08-22
 
 #### Como solicitar 12 de pesquisa?
 
-A solicitação deve ocorrer por meio de manifestação de interesse do(a) docente, a partir de envio (via protocolo do Campus) para a CDPI com ata de colegiado aprovando a solicitação e formulário de pesquisa preenchido.
+A solicitação deve ocorrer por meio de manifestação de interesse do(a) docente, a partir de envio (via protocolo do Campus) de ata do colegiado aprovando a solicitação e formulário de pesquisa preenchido. Os dois documentos devem ser encaminhados à CDPI. 
 
 * <a href="https://drive.google.com/file/d/0BxryQ3cOy6LDSmJlQU5pNTU5enc/view?usp=sharing" target="_blank">Infográfico com o fluxo de 12h de pesquisa</a>
 * <a href="https://drive.google.com/a/etfbsb.edu.br/file/d/0BxXjD-WQ-AqkeVdfV1oyR053UTg/view?usp=sharing" target="_blank">Formulário de projetos de pesquisa</a>
