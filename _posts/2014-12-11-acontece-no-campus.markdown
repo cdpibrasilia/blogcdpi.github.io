@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Acontece no Campus"
+title:  <a href="https://medium.com/cdpi-campus-bras%C3%ADlia-ifb">Acontece no Campus</a>
 date:   2014-12-11
 ---
 
