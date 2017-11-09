@@ -27,4 +27,4 @@ dos os critérios de criação, a Pró-Reitoria de Pesquisa e Inovação efetua 
 
 * <a href="http://www.ifb.edu.br/attachments/article/6752/Boletim%20PRPI%201-2017.pdf" target="_blank">Boletim da PRPI sobre Grupos de Pesquisa</a>
 
-<blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
+<blockquote>"A ciência não é somente a acumulação de verdades verdadeiras" (Edgar Morin, em Ciência com Consciência).</blockquote>
