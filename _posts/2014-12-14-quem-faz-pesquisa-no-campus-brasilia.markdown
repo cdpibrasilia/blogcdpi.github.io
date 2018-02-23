@@ -17,12 +17,5 @@ published: true
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/3318535268236658" target="_blank">Observatório do Mundo do Trabalho</a>
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/4900898887130496" target="_blank">Pesquisa Terminológica no IFB </a>
 
-#### Projetos de pesquisa em andamento (lista em constante atualização)
-
-* A subjetividade na dança (PIBIC - 2017/2018) - prof. Dr. Marcos Ramon
-* O perfil das provas de inglês do PAS UnB: análise propositiva (PIBIC-EM - 2017/2018) - Prof. Ms Vanessa Araújo
-
-#### Projetos de pesquisa concluídos (lista em construção)
-
 -
 *Se você faz parte de um grupo de pesquisa e possui projeto de pesquisa ativo ou concluído, por favor, envie as informações para <a href="mailto:marcos.ferreira@ifb.edu.br" target="_blank">marcos.ferreira@ifb.edu.br</a> para inlcuirmos os dados nesta página*
