@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contato
+published: false
 ---
 
 <div id="contact">
