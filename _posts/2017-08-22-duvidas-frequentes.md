@@ -15,15 +15,8 @@ A solicitação deve ocorrer por meio de manifestação de interesse do(a) docen
 
 #### Como cadastrar grupo de pesquisa?
 
-Quem registra o grupo no Diretório é o Líder. O formulário Grupo (existente atualmente apenas na versão on line) 
-está disponível no site de Líderes de grupo, em Atualizar/Inserir novo grupo, "Inserir novo grupo". Para ter acesso a 
-esse site, o Líder precisa ter um currículo Lattes no CNPq e estar cadastrado como líder de grupo pelo dirigente de 
-pesquisa da sua instituição. A senha de acesso solicitada pelo sistema é a senha Lattes do líder. Caso não a possua 
-ou a tenha esquecido, poderá obtê-la acessando o link "Sua senha”, na página inicial do site do CNPq.
-No IFB, o cadastro do pesquisador como líder de grupo de pesquisa deve ser solicitado à Pró-Reitoria de Pesquisa e Inovação 
-por meio de processo seguindo o fluxo "Criação de grupos de pesquisa" disponível na Portaria n° 008/2012. Após o 
-cadastro como líder, o pesquisador pode realizar a inserção do grupo no diretório. Após o preenchimento e atendi-
-dos os critérios de criação, a Pró-Reitoria de Pesquisa e Inovação efetua a certificação do grupo.
+No IFB, o cadastro do pesquisador como líder de grupo de pesquisa deve ser solicitado à Pró-Reitoria de Pesquisa e Inovação. Para isso, basta enviar um email para <a href="mailto:prpi@ifb.edu.br">prpi@ifb.edu.br</a> demonstrando interesse em se tornar líder de Grupo de Pesquisa. Apesar de não ser obrigatório, solicito que envie o seu email com cópia para mim (<a href="mailto:marcos.ferreira@ifb.edu.br">marcos.ferreira@ifb.edu.br</a>), para que eu possa mapear os grupos de pesquisa do Campus Brasília.
+Importante: para ser líder de Grupo de Pesquisa cadastrado no CNPq e certificado pelo IFB é necessário que a pessoa interessada tenha Doutorado e esteja com o currículo Lattes atualizado. Após o preenchimento e atendidos os critérios de criação, a Pró-Reitoria de Pesquisa e Inovação efetua a certificação do grupo. O preenchimento dos dados do Grupo (inclusão de pesquisadores, linhas de pesquisa, estudantes etc) é feito pelo líder. 
 
 * <a href="http://www.ifb.edu.br/attachments/article/6752/Boletim%20PRPI%201-2017.pdf" target="_blank">Boletim da PRPI sobre Grupos de Pesquisa</a>
 
