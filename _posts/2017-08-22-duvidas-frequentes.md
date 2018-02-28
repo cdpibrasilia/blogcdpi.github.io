@@ -8,18 +8,25 @@ date:   2017-08-22
 
 #### Como solicitar 12 de pesquisa?
 
-###Docentes
+### Docentes
 
 A solicitação deve ocorrer por meio de manifestação de interesse do(a) docente, a partir de envio (via protocolo do Campus) de projeto de pesquisa e formulário de pesquisa preenchidos. Os dois documentos devem ser encaminhados à CDPI. 
 
 * <a href="https://drive.google.com/file/d/1iEYcSOljF92l_wmX2JWsiHlI80fxYYM_/view?usp=sharing" target="_blank">Infográfico com o fluxo de 12h de pesquisa</a>
 * <a href="https://drive.google.com/a/etfbsb.edu.br/file/d/0BxXjD-WQ-AqkeVdfV1oyR053UTg/view?usp=sharing" target="_blank">Formulário de projetos de pesquisa</a>
 
-###Técnicos
+### Técnicos
 
 <a href="https://drive.google.com/file/d/1s6nM6QJ1zStLu9pDNBY2zetevAIfdxed/view?usp=sharing" target="_blank">A portaria normativa 001/2017 RIFB</a>, estabelece o fluxo para solicitação de 12h dos servidores técnicos.
 
 * <a href="https://drive.google.com/open?id=1nflWDqU73zCDa9o8OYoqrEJztSk_Wbtz" target="_blank">Formulário para registro de projetos de pesquisa</a>
+
+### Outros
+
+* <a href="https://drive.google.com/open?id=0BxryQ3cOy6LDOXZkbnN4Wmx0cEU" target="_blank">Formulário para registro de projetos de pesquisa</a>
+* <a href="https://drive.google.com/open?id=0BxryQ3cOy6LDWVpRQzlwQVhZRTA" target="_blank">Formulário para registro de projetos de pesquisa em pós-graduacao.doc</a>
+* <a href="https://drive.google.com/open?id=0BxryQ3cOy6LDLVgzZlZrcWRDSjA" target="_blank">Modelo de relatório para projetos de pesquisa em pós-graduacao</a>
+* <a href="https://drive.google.com/open?id=0BxryQ3cOy6LDVDhWWUdWNGswTU0" target="_blank">Modelo de relatório para projetos de pesquisa</a>
 
 #### Como cadastrar grupo de pesquisa?
 
