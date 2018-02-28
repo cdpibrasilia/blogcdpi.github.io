@@ -16,7 +16,7 @@ published: true
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/9452836287349530" target="_blank">Gêneros - FloreSer</a>. Líderes do Grupo: Christine Rebouças Lourenço e Dulce Regina de Souza
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/7975397807619653" target="_blank">Governança na Administração Pública e Políticas Públicas</a>. Líderes do grupo: Fabiana Carvalho da Silva Bispo e Ailton Bispo dos Santos Junior
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/6702453591099992" target="_blank">Grupo de Estudos em Gestão, Estratégia e Governança (GEGEG)</a>. Líder do grupo: Bruno da Rocha Braga
-* <a href="http://dgp.cnpq.br/dgp/espelhogrupo/6419069911099653" target="_blank">Interface - Grupo interdisciplinar em Filosofia e Cultura IFB/CNPq</a>. Líder do Grupo: Marcos Ramon Gomes Ferreira
+* <a href="http://dgp.cnpq.br/dgp/espelhogrupo/6419069911099653" target="_blank">Interface - Grupo interdisciplinar em Filosofia e Cultura IFB/CNPq</a>. Líder do Grupo: Marcos Ramon Gomes Ferreira e Cristiane Herres Terraza
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/0962464153639509" target="_blank">Grupo de Pesquisa em Dança Educação</a>. Líder do Grupo: Ana Carolina de Souza Silva Dantas Mendes
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/1653269547472661" target="_blank">Grupo de Pesquisa em Interculturalidades Afroameríndias
 </a>. Líder do Grupo: Larissa Ferreira Regis Barbosa
