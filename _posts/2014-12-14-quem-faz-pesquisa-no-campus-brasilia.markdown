@@ -22,5 +22,5 @@ published: true
 </a>. Líder do Grupo: Larissa Ferreira Regis Barbosa
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/6719702300782374" target="_blank">O Leitor: da leitura à literatura</a>. Líder do Grupo: Josué de Sousa Mendes
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/4900898887130496" target="_blank">Pesquisa Terminológica no IFB</a>. Líder do Grupo: Cleide Lemes da Silva Cruz
-- 
+---
 *Se você faz parte de um grupo de pesquisa e possui projeto de pesquisa ativo ou concluído, por favor, envie as informações para <a href="mailto:marcos.ferreira@ifb.edu.br" target="_blank">marcos.ferreira@ifb.edu.br</a> para inlcuirmos os dados nesta página*
