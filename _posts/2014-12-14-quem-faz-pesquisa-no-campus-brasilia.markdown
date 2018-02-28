@@ -8,7 +8,7 @@ published: true
 
 #### Grupos de pesquisa em funcionamento (em atualização)
 
-* <a href="http://dgp.cnpq.br/dgp/espelhogrupo/3429141724396047" target="_blank">Coletivo Transcoreográfico - (ColeT-IFB) - IFB</a>. Líder do Grupo: Diego Pizarro
+* <a href="http://dgp.cnpq.br/dgp/espelhogrupo/3644691888238860" target="_blank">Coletivo de Estudos em Dança, Educação Somática e Improvisação - CEDA-SI - IFB </a>. Líder do Grupo: Diego Pizarro
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/5147901711949006" target="_blank">Corpoimagem na Improvisação</a>. Líder do Grupo: Carla Sabrina Cunha
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/7224662198699915" target="_blank">Estudos Ambientais e Sustentabilidade</a>. Líderes do Grupo: Paula Petracco e Marina Neves Delgado
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/0371333182322086" target="_blank">Estudos Culturais sobre classe, gênero e raça</a>. Líder do grupo: Glauco Vaz Feijó
