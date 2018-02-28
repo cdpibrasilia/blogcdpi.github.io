@@ -6,8 +6,6 @@ image: ifb2.jpg
 published: true
 ---
 
-<p class="intro"><span class="dropcap">P</span>rofessores, técnicos e discentes do Campus Brasília participam de atividades de pesquisa. Essas atividades são conectadas ao ensino e muitas vezes envolvem a comunidade externa.</p>
-
 #### Grupos de pesquisa em funcionamento (em atualização)
 
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/5147901711949006" target="_blank">Corpoimagem na Improvisação</a>. Líder do Grupo: Carla Sabrina Cunha
