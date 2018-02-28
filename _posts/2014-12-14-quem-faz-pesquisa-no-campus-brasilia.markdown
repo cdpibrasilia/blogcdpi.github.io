@@ -19,6 +19,7 @@ published: true
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/1653269547472661" target="_blank">Grupo de Pesquisa em Interculturalidades Afroameríndias
 </a>. Líder do Grupo: Larissa Ferreira Regis Barbosa
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/3429141724396047" target="_blank">Grupo de Pesquisas Transcoreográficas - (Transcoreo) - IFB </a>. Líder do Grupo: Cínthia Nepomuceno Xavier
+* <a href="http://dgp.cnpq.br/dgp/espelhogrupo/6919595876826058" target="_blank">Grupo ELEPT - Ensino de Línguas na Educação Profissional e Tecnológica</a>. Líderes do Grupo: Renata Mourão Guimarães e Vanessa Cristina da Silva
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/6419069911099653" target="_blank">Interface - Grupo interdisciplinar em Filosofia e Cultura IFB/CNPq</a>. Líder do Grupo: Marcos Ramon Gomes Ferreira e Cristiane Herres Terraza
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/6719702300782374" target="_blank">O Leitor: da leitura à literatura</a>. Líder do Grupo: Josué de Sousa Mendes
 * <a href="http://dgp.cnpq.br/dgp/espelhogrupo/4900898887130496" target="_blank">Pesquisa Terminológica no IFB</a>. Líder do Grupo: Cleide Lemes da Silva Cruz
