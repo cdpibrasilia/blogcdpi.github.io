@@ -1,7 +1,7 @@
 title: CDPI - Campus Brasília
 description: Site da Coordenação de Pesquisa e Inovação do Campus Brasília do IFB
 
-url: http://cdpibrasilia.github.com/
+url: http://cdpiantigo.github.com/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
